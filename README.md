@@ -207,7 +207,7 @@ MIT — see the `LICENSE` file for details.
 ## Author
 
 **Timothy Sela**
-GitHub: [github.com/zxo-tech](https://github.com/zxi-tech)
+GitHub: [github.com/zxi-tech](https://github.com/zxi-tech)
 
 ---
 
